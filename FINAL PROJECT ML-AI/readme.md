@@ -22,8 +22,8 @@ A dual-mode AI-powered assistant built for Manappuram Finance, featuring both do
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mafil-ai/ICT-Project.git
-cd ICT-Project
+git clone https://github.com/mafil-ai/ICT-Project.git](https://github.com/SushilKL14/Advanced_ML_And_AI_Course.git
+cd FINAL PROJECT ML-AI
 ```
 
 2. **Install dependencies**
